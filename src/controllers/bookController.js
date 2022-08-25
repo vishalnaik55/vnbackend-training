@@ -1,4 +1,3 @@
-const authorModel = require("../models/authorModel")
 const bookModel= require("../models/bookModel")
 
 const createBook= async function (req, res) {
